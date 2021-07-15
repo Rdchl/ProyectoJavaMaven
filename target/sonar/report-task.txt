@@ -1,0 +1,7 @@
+organization=rdchl
+projectKey=Rdchl_ProyectoJavaMaven
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.21709
+dashboardUrl=https://sonarcloud.io/dashboard?id=Rdchl_ProyectoJavaMaven
+ceTaskId=AXqsSo04lG1PxIkOFKW4
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXqsSo04lG1PxIkOFKW4
